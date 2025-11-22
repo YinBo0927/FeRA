@@ -6,5 +6,5 @@
 ## 🌟🌟🌟FeRA
 
 <div style="text-align: center;">
-  <img src="overview.jpg" alt="fig6" width="800">
+  <img src="overview.png" alt="fig6" width="800">
 </div>
