@@ -1,7 +1,11 @@
 # FeRA: Frequency–Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning
 [![arXiv](https://img.shields.io/badge/arXiv-2511.17979-b31b1b.svg)](https://arxiv.org/abs/2511.17979)
 
-## The code will be publicly available soon...
+## The whole code will be publicly available soon...
+
+> [!IMPORTANT]
+> **We are currently working on an integration into the PEFT library**
+
 
 ## 🌟🌟🌟FeRA
 
