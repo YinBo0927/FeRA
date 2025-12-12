@@ -67,3 +67,14 @@ def train():
 if __name__ == "__main__":
     train()
 ```
+
+## Citation
+If you are interested in our work, you can cite it!
+```
+@article{yin2025fera,
+  title={FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning},
+  author={Yin, Bo and Hu, Xiaobin and Zhou, Xingyu and Jiang, Peng-Tao and Liao, Yue and Zhu, Junwei and Zhang, Jiangning and Tai, Ying and Wang, Chengjie and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2511.17979},
+  year={2025}
+}
+```
